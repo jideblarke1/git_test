@@ -1,1 +1,1 @@
-This is Olajide's frisst git project
+This is Olajide's frist git project
